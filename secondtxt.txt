@@ -1,5 +1,0 @@
-my topic about the devops  
-in this 
-dev = developers
-ops = operations 
- 
